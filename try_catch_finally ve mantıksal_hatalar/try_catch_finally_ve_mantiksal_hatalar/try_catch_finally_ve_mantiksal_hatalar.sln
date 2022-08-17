@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "try_catch_finally_ve_mantiksal_hatalar", "try_catch_finally_ve_mantiksal_hatalar\try_catch_finally_ve_mantiksal_hatalar.csproj", "{6992BAA8-9DE5-404A-BF15-A65220827A10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6992BAA8-9DE5-404A-BF15-A65220827A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6992BAA8-9DE5-404A-BF15-A65220827A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6992BAA8-9DE5-404A-BF15-A65220827A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6992BAA8-9DE5-404A-BF15-A65220827A10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9C43927-99DB-4D18-A36D-49638EC6091E}
+	EndGlobalSection
+EndGlobal
